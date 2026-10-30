@@ -1,0 +1,6 @@
+{
+  "name": "NexFlix - Stream & Download Official Portal",
+  "description": "Official download portal and landing page for NexFlix movie and series streaming app, featuring real-time download links, updates, and features managed with Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
